@@ -1,0 +1,482 @@
+F 1;2020-01-01 ;Avtalsfaktura AlmTek AB (584645) ;27 280,00; ;121 657,00
+F 2;2020-01-01 ;Avtalsfaktura Björn Larsen (584646) ;2 974,00; ;124 631,00
+F 3;2020-01-01 ;Avtalsfaktura Connie Bengtsson (584647) ;3 663,00; ;128 294,00
+F 4;2020-01-01 ;Avtalsfaktura Kent Tyrén (584648) ;6 500,00; ;134 794,00
+F 5;2020-01-01 ;Avtalsfaktura Hasse Johansson (584649) ;6 500,00; ;141 294,00
+F 6;2020-01-01 ;Avtalsfaktura Jan Högström (584650) ;3 000,00; ;144 294,00
+F 7;2020-01-01 ;Avtalsfaktura Kim Max Flisbäck (584653) ;3 328,00; ;147 622,00
+F 8;2020-01-01 ;Avtalsfaktura Britt-Marie Enberg (584656) ;4 471,00; ;152 093,00
+F 9;2020-01-01 ;Avtalsfaktura Kent Tyrén (584657) ;3 174,00; ;155 267,00
+F 25;2020-01-01 ;Avtalsfaktura Rosita Andersson (584651) ;3 701,00; ;158 968,00
+F 26;2020-01-01 ;Avtalsfaktura Rosita Andersson (584652) ;3 701,00; ;162 669,00
+F 27;2020-01-01 ;Avtalsfaktura Peter Norbert Tarcsi (584654) ;6 124,00; ;168 793,00
+F 28;2020-01-01 ;Avtalsfaktura Peter Norbert Tarcsi (584655) ;6 124,00; ;174 917,00
+I 1;2020-01-03 ;Kundbet Remdoc Aktiebolag (584639) ; ;17 018,00;157 899,00
+I 2;2020-01-20 ;Kundbet Kent Tyrén (584648) ; ;6 500,00;151 399,00
+I 3;2020-01-21 ;Kundbet Kent Tyrén (584657) ; ;3 174,00;148 225,00
+I 4;2020-01-27 ;Kundbet Britt-Marie Enberg (584656) ; ;4 471,00;143 754,00
+I 5;2020-01-27 ;Kundbet Connie Bengtsson (584647) ; ;3 203,00;140 551,00
+I 6;2020-01-28 ;Kundbet Kim Max Flisbäck (584653) ; ;3 328,00;137 223,00
+I 7;2020-01-28 ;Kundbet Björn Larsen (584646) ; ;2 974,00;134 249,00
+F 20;2020-01-30 ;Kundfaktura Ullrika Daleroth (584658) ;3 066,00; ;137 315,00
+F 29;2020-01-30 ;Kundfaktura Dan Elving Eckeskog (584660) ;17 507,00; ;154 822,00
+I 8;2020-01-30 ;Kundbet Hasse Johansson (584649) ; ;6 500,00;148 322,00
+I 9;2020-01-31 ;Kundbet AlmTek AB (584645) ; ;27 280,00;121 042,00
+F 16;2020-02-01 ;Kundfaktura Connie Bengtsson (584679) ;3 663,00; ;124 705,00
+F 17;2020-02-01 ;Kundfaktura Hans Fritz (584659) ;5 968,00; ;130 673,00
+F 10;2020-02-03 ;Kundfaktura Kent Tyrén (584665) ;6 760,00; ;137 433,00
+F 11;2020-02-03 ;Kundfaktura Karl Tomas Persson (584668) ;798; ;138 231,00
+F 12;2020-02-03 ;Kundfaktura Kent Tyrén (584676) ;3 534,00; ;141 765,00
+F 13;2020-02-03 ;Kundfaktura Britt-Marie Enberg (584661) ;4 691,00; ;146 456,00
+F 14;2020-02-03 ;Kundfaktura Bera Holding i Lund AB (584667) ;1 369,00; ;147 825,00
+F 15;2020-02-03 ;Kundfaktura Bygginnovatörerna i Lund Aktiebolag (584666) ;2 190,00; ;150 015,00
+F 18;2020-02-03 ;Kundfaktura Handelsbolaget Oakhearts (584670) ;10 714,00; ;160 729,00
+F 19;2020-02-03 ;Kundfaktura Jan Högström (584662) ;3 111,00; ;163 840,00
+F 21;2020-02-03 ;Kundfaktura Björn Larsen (584675) ;3 646,00; ;167 486,00
+F 22;2020-02-03 ;Kundfaktura Hasse Johansson (584664) ;6 500,00; ;173 986,00
+F 23;2020-02-03 ;Kundfaktura AlmTek AB (584673) ;34 958,00; ;208 944,00
+F 24;2020-02-03 ;Kundfaktura Kim Max Flisbäck (584669) ;4 072,00; ;213 016,00
+F 59;2020-02-03 ;Kundfaktura Rosita Andersson (584663) ;3 701,00; ;216 717,00
+F 60;2020-02-03 ;Kundfaktura Ullrika Daleroth (584671) ;1 285,00; ;218 002,00
+F 61;2020-02-03 ;Kundfaktura AlmTek AB (584672) ;38 656,00; ;256 658,00
+F 62;2020-02-03 ;Kundfaktura Peter Norbert Tarcsi (584674) ;6 924,00; ;263 582,00
+I 10;2020-02-03 ;Kundbet Jan Högström (584650) ; ;3 000,00;260 582,00
+F 63;2020-02-07 ;Kundfaktura Britt-Marie Enberg (584678) ;3 080,00; ;263 662,00
+F 64;2020-02-07 ;Kundfaktura Handelsbolaget Oakhearts (584680) ;30 181,00; ;293 843,00
+F 65;2020-02-07 ;Kundfaktura Handelsbolaget Oakhearts (584681) ;22 790,00; ;316 633,00
+I 11;2020-02-13 ;Kundbet Karl Tomas Persson (584668) ; ;798;315 835,00
+I 12;2020-02-19 ;Kundbet Kent Tyrén (584665) ; ;6 760,00;309 075,00
+I 13;2020-02-19 ;Kundbet Kent Tyrén (584676) ; ;3 534,00;305 541,00
+I 14;2020-02-25 ;Kundbet Britt-Marie Enberg (584661) ; ;4 691,00;300 850,00
+I 15;2020-02-25 ;Kundbet Bera Holding i Lund AB (584667) ; ;1 369,00;299 481,00
+I 20;2020-02-27 ;Kundbet Jan Högström (584662) ; ;3 000,00;296 481,00
+I 16;2020-02-28 ;Kundbet Bygginnovatörerna i Lund Aktiebolag (584666) ; ;2 190,00;294 291,00
+I 17;2020-02-28 ;Kundbet Connie Bengtsson (584679) ; ;3 663,00;290 628,00
+I 18;2020-02-28 ;Kundbet Hans Fritz (584659) ; ;5 968,00;284 660,00
+I 19;2020-02-28 ;Kundbet Handelsbolaget Oakhearts (584670) ; ;10 714,00;273 946,00
+F 30;2020-03-01 ;Kundfaktura Britt-Marie Enberg (584684) ;4 691,00; ;278 637,00
+F 31;2020-03-01 ;Kundfaktura Björn Håkan Sigvard Jerslind (584687) ;1 675,00; ;280 312,00
+F 32;2020-03-01 ;Kundfaktura Jan Högström (584685) ;3 120,00; ;283 432,00
+F 34;2020-03-01 ;Kundfaktura Karl Tomas Persson (584695) ;11 020,00; ;294 452,00
+F 36;2020-03-01 ;Kundfaktura Ullrika Daleroth (584700) ;1 533,00; ;295 985,00
+F 37;2020-03-01 ;Kundfaktura Connie Bengtsson (584692) ;3 361,00; ;299 346,00
+F 38;2020-03-01 ;Kundfaktura Hasse Johansson (584688) ;6 500,00; ;305 846,00
+F 39;2020-03-01 ;Kundfaktura Björn Larsen (584702) ;3 086,00; ;308 932,00
+F 40;2020-03-01 ;Kundfaktura Bera Holding i Lund AB (584690) ;4 954,00; ;313 886,00
+F 41;2020-03-01 ;Kundfaktura Bygginnovatörerna i Lund Aktiebolag (584691) ;8 123,00; ;322 009,00
+F 42;2020-03-01 ;Kundfaktura Handelsbolaget Oakhearts (584698) ;8 849,00; ;330 858,00
+F 43;2020-03-01 ;Kundfaktura Margrethe Kehler (584697) ;14 063,00; ;344 921,00
+F 44;2020-03-01 ;Kundfaktura AlmTek AB (584701) ;33 804,00; ;378 725,00
+F 45;2020-03-01 ;Kundfaktura Kim Max Flisbäck (584696) ;3 452,00; ;382 177,00
+F 46;2020-03-01 ;Kundfaktura Hans Fritz (584694) ;1 831,00; ;384 008,00
+F 47;2020-03-01 ;Kundfaktura Kubix AB (584705) ;9 375,00; ;393 383,00
+F 66;2020-03-01 ;Kundfaktura Rosita Andersson (584686) ;3 841,00; ;397 224,00
+F 67;2020-03-01 ;Kundfaktura Kent Tyrén (584689) ;6 760,00; ;403 984,00
+F 68;2020-03-01 ;Kundfaktura Dan Elving Eckeskog (584693) ;2 910,00; ;406 894,00
+F 69;2020-03-01 ;Kundfaktura Remdoc Aktiebolag (584699) ;17 018,00; ;423 912,00
+F 70;2020-03-01 ;Kundfaktura Kent Tyrén (584703) ;3 601,00; ;427 513,00
+F 71;2020-03-01 ;Kundfaktura Peter Norbert Tarcsi (584704) ;6 323,00; ;433 836,00
+F 171;2020-03-01 ;Kreditfaktura Kent Tyrén (584825) ; ;6 760,00;427 076,00
+F 172;2020-03-01 ;Kreditfaktura Kent Tyrén (584826) ; ;3 601,00;423 475,00
+I 21;2020-03-02 ;Kundbet CZUPRYNIAK, WOJCIECH (584644) ; ;2 500,00;420 975,00
+I 22;2020-03-02 ;Kundbet Ullrika Daleroth (584658) ; ;3 066,00;417 909,00
+I 23;2020-03-02 ;Kundbet Björn Larsen (584675) ; ;3 646,00;414 263,00
+I 24;2020-03-02 ;Kundbet Hasse Johansson (584664) ; ;6 500,00;407 763,00
+I 25;2020-03-03 ;Kundbet Jan Högström (584662) ; ;111;407 652,00
+I 26;2020-03-04 ;Kundbet AlmTek AB (584673) ; ;34 958,00;372 694,00
+I 27;2020-03-04 ;Kundbet Kim Max Flisbäck (584669) ; ;4 072,00;368 622,00
+F 33;2020-03-16 ;Kundfaktura Kent Tyrén (584706) ;14 003,00; ;382 625,00
+F 35;2020-03-16 ;Kundfaktura Hasse Johansson (584707) ;1 500,00; ;384 125,00
+I 28;2020-03-24 ;Kundbet Britt-Marie Enberg (584684) ; ;4 691,00;379 434,00
+I 29;2020-03-25 ;Kundbet Björn Håkan Sigvard Jerslind (584687) ; ;1 675,00;377 759,00
+I 30;2020-03-26 ;Kundbet Jan Högström (584685) ; ;3 120,00;374 639,00
+I 31;2020-03-26 ;Kundbet Kent Tyrén (584706) ; ;14 003,00;360 636,00
+I 32;2020-03-27 ;Kundbet Karl Tomas Persson (584695) ; ;11 020,00;349 616,00
+F 49;2020-03-29 ;Kundfaktura Kent Tyrén (584708) ;12 638,00; ;362 254,00
+F 48;2020-03-30 ;Kundfaktura Ullrika Daleroth (584718) ;1 533,00; ;363 787,00
+F 50;2020-03-30 ;Kundfaktura Björn Larsen (584721) ;3 086,00; ;366 873,00
+F 51;2020-03-30 ;Kundfaktura Jan Högström (584711) ;3 120,00; ;369 993,00
+F 52;2020-03-30 ;Kundfaktura Connie Bengtsson (584713) ;3 362,00; ;373 355,00
+F 53;2020-03-30 ;Kundfaktura Britt-Marie Enberg (584710) ;4 691,00; ;378 046,00
+F 54;2020-03-30 ;Kundfaktura Hans Fritz (584715) ;1 551,00; ;379 597,00
+F 55;2020-03-30 ;Kundfaktura Hasse Johansson (584709) ;9 210,00; ;388 807,00
+F 56;2020-03-30 ;Kundfaktura AlmTek AB (584719) ;23 943,00; ;412 750,00
+F 57;2020-03-30 ;Kundfaktura Handelsbolaget Oakhearts (584717) ;7 974,00; ;420 724,00
+F 58;2020-03-30 ;Kundfaktura Kim Max Flisbäck (584716) ;3 452,00; ;424 176,00
+F 72;2020-03-30 ;Kundfaktura Rosita Andersson (584712) ;3 841,00; ;428 017,00
+F 73;2020-03-30 ;Kundfaktura Dan Elving Eckeskog (584714) ;2 918,00; ;430 935,00
+F 74;2020-03-30 ;Kundfaktura Peter Norbert Tarcsi (584720) ;6 323,00; ;437 258,00
+I 33;2020-03-30 ;Kundbet Hasse Johansson (584707) ; ;1 500,00;435 758,00
+I 34;2020-03-30 ;Kundbet Ullrika Daleroth (584700) ; ;1 533,00;434 225,00
+I 35;2020-03-30 ;Kundbet Connie Bengtsson (584692) ; ;3 361,00;430 864,00
+I 36;2020-03-30 ;Kundbet Hasse Johansson (584688) ; ;6 500,00;424 364,00
+I 37;2020-03-31 ;Kundbet Björn Larsen (584702) ; ;3 086,00;421 278,00
+I 38;2020-03-31 ;Kundbet Bera Holding i Lund AB (584690) ; ;4 954,00;416 324,00
+I 39;2020-03-31 ;Kundbet Bygginnovatörerna i Lund Aktiebolag (584691) ; ;8 123,00;408 201,00
+I 40;2020-03-31 ;Kundbet Handelsbolaget Oakhearts (584698) ; ;8 849,00;399 352,00
+I 41;2020-03-31 ;Kundbet Margrethe Kehler (584697) ; ;14 063,00;385 289,00
+I 42;2020-03-31 ;Kundbet AlmTek AB (584701) ; ;33 804,00;351 485,00
+I 139;2020-03-31 ;Kundbet Kent Tyrén (584825) ;6 760,00; ;358 245,00
+I 140;2020-03-31 ;Kundbet Kent Tyrén (584689) ; ;6 760,00;351 485,00
+I 141;2020-03-31 ;Kundbet Kent Tyrén (584826) ;3 601,00; ;355 086,00
+I 142;2020-03-31 ;Kundbet Kent Tyrén (584703) ; ;3 601,00;351 485,00
+I 43;2020-04-01 ;Kundbet Kim Max Flisbäck (584696) ; ;3 452,00;348 033,00
+I 44;2020-04-03 ;Kundbet Hans Fritz (584694) ; ;1 831,00;346 202,00
+I 79;2020-04-06 ;Kundbet Peter Norbert Tarcsi (584519) ; ;3 000,00;343 202,00
+I 45;2020-04-14 ;Kundbet Kubix AB (584628) ; ;9 375,00;333 827,00
+I 46;2020-04-14 ;Kundbet Kubix AB (584705) ; ;9 375,00;324 452,00
+I 47;2020-04-14 ;Kundbet Ullrika Daleroth (584718) ; ;1 533,00;322 919,00
+I 48;2020-04-21 ;Kundbet Kent Tyrén (584708) ; ;12 638,00;310 281,00
+I 49;2020-04-28 ;Kundbet Björn Larsen (584721) ; ;3 086,00;307 195,00
+I 50;2020-04-28 ;Kundbet Jan Högström (584711) ; ;3 120,00;304 075,00
+I 51;2020-04-28 ;Kundbet Connie Bengtsson (584713) ; ;3 362,00;300 713,00
+I 52;2020-04-28 ;Kundbet Britt-Marie Enberg (584710) ; ;4 691,00;296 022,00
+F 81;2020-04-29 ;Kundfaktura Rosita Andersson (584724) ;3 841,00; ;299 863,00
+I 53;2020-04-29 ;Kundbet Hans Fritz (584715) ; ;1 551,00;298 312,00
+F 75;2020-04-30 ;Kundfaktura Ullrika Daleroth (584732) ;1 533,00; ;299 845,00
+F 76;2020-04-30 ;Kundfaktura Britt-Marie Enberg (584722) ;4 691,00; ;304 536,00
+F 77;2020-04-30 ;Kundfaktura Hans Fritz (584728) ;1 549,00; ;306 085,00
+F 78;2020-04-30 ;Kundfaktura Connie Bengtsson (584727) ;3 361,00; ;309 446,00
+F 79;2020-04-30 ;Kundfaktura AlmTek AB (584733) ;23 943,00; ;333 389,00
+F 80;2020-04-30 ;Kundfaktura Handelsbolaget Oakhearts (584731) ;5 750,00; ;339 139,00
+F 82;2020-04-30 ;Kundfaktura Jan Högström (584723) ;3 120,00; ;342 259,00
+F 83;2020-04-30 ;Kundfaktura Hasse Johansson (584725) ;6 500,00; ;348 759,00
+F 84;2020-04-30 ;Kundfaktura Kent Tyrén (584726) ;9 880,00; ;358 639,00
+F 85;2020-04-30 ;Kundfaktura Kim Max Flisbäck (584729) ;3 452,00; ;362 091,00
+F 86;2020-04-30 ;Kundfaktura Peter Norbert Tarcsi (584734) ;6 323,00; ;368 414,00
+F 87;2020-04-30 ;Kundfaktura Björn Larsen (584735) ;6 300,00; ;374 714,00
+I 54;2020-04-30 ;Kundbet Hasse Johansson (584709) ; ;9 210,00;365 504,00
+I 55;2020-04-30 ;Kundbet AlmTek AB (584719) ; ;23 943,00;341 561,00
+I 56;2020-04-30 ;Kundbet Handelsbolaget Oakhearts (584717) ; ;7 974,00;333 587,00
+I 57;2020-04-30 ;Kundbet Kim Max Flisbäck (584716) ; ;3 452,00;330 135,00
+I 58;2020-05-04 ;Kundbet Ullrika Daleroth (584732) ; ;1 533,00;328 602,00
+I 59;2020-05-12 ;Kundbet Britt-Marie Enberg (584678) ; ;3 080,00;325 522,00
+I 60;2020-05-12 ;Kundbet Remdoc Aktiebolag (584699) ; ;17 018,00;308 504,00
+I 67;2020-05-22 ;Kundbet Kent Tyrén (584726) ; ;9 880,00;298 624,00
+I 80;2020-05-22 ;Kundbet Peter Norbert Tarcsi (584519) ; ;3 124,00;295 500,00
+I 81;2020-05-22 ;Kundbet Peter Norbert Tarcsi (584539) ; ;1 876,00;293 624,00
+I 61;2020-05-25 ;Kundbet Britt-Marie Enberg (584722) ; ;4 691,00;288 933,00
+I 62;2020-05-27 ;Kundbet Hans Fritz (584728) ; ;1 549,00;287 384,00
+I 63;2020-05-28 ;Kundbet Connie Bengtsson (584727) ; ;3 361,00;284 023,00
+I 64;2020-05-29 ;Kundbet AlmTek AB (584733) ; ;23 943,00;260 080,00
+I 65;2020-05-29 ;Kundbet Handelsbolaget Oakhearts (584731) ; ;5 750,00;254 330,00
+I 66;2020-05-29 ;Kundbet Handelsbolaget Oakhearts (584680) ; ;30 181,00;224 149,00
+F 91;2020-05-31 ;Kundfaktura Margrethe Kehler (584730) ;14 063,00; ;238 212,00
+I 82;2020-06-01 ;Kundbet Hasse Johansson (584725) ; ;6 500,00;231 712,00
+I 83;2020-06-01 ;Kundbet Björn Larsen (584735) ; ;6 300,00;225 412,00
+F 88;2020-06-02 ;Kundfaktura Handelsbolaget Oakhearts (584742) ;440; ;225 852,00
+F 89;2020-06-02 ;Kundfaktura Hans Fritz (584749) ;1 551,00; ;227 403,00
+F 90;2020-06-02 ;Kundfaktura Britt-Marie Enberg (584736) ;4 691,00; ;232 094,00
+F 92;2020-06-02 ;Kundfaktura AlmTek AB (584739) ;23 943,00; ;256 037,00
+F 94;2020-06-02 ;Kundfaktura Björn Håkan Sigvard Jerslind (584752) ;1 672,00; ;257 709,00
+F 96;2020-06-02 ;Kundfaktura Jan Högström (584737) ;3 120,00; ;260 829,00
+F 97;2020-06-02 ;Kundfaktura Ullrika Daleroth (584744) ;1 533,00; ;262 362,00
+F 101;2020-06-02 ;Kundfaktura Kim Max Flisbäck (584750) ;3 452,00; ;265 814,00
+F 102;2020-06-02 ;Kundfaktura Björn Larsen (584747) ;6 300,00; ;272 114,00
+F 103;2020-06-02 ;Kundfaktura Margrethe Kehler (584751) ;14 063,00; ;286 177,00
+F 104;2020-06-02 ;Kundfaktura Rosita Andersson (584738) ;3 841,00; ;290 018,00
+F 105;2020-06-02 ;Kundfaktura Peter Norbert Tarcsi (584740) ;6 323,00; ;296 341,00
+F 106;2020-06-02 ;Kundfaktura Remdoc Aktiebolag (584743) ;17 018,00; ;313 359,00
+F 107;2020-06-02 ;Kundfaktura Bera Holding i Lund AB (584746) ;4 954,00; ;318 313,00
+F 108;2020-06-02 ;Kundfaktura Bygginnovatörerna i Lund Aktiebolag (584745) ;8 123,00; ;326 436,00
+F 125;2020-06-02 ;Kundfaktura Kubix AB (584741) ;9 375,00; ;335 811,00
+F 126;2020-06-02 ;Kundfaktura Dan Elving Eckeskog (584748) ;5 836,00; ;341 647,00
+F 168;2020-06-02 ;Kreditfaktura Kubix AB (584822) ; ;9 375,00;332 272,00
+F 170;2020-06-02 ;Kreditfaktura Margrethe Kehler (584824) ; ;14 063,00;318 209,00
+F 174;2020-06-02 ;Kreditfaktura Dan Elving Eckeskog (584828) ; ;1 848,00;316 361,00
+I 133;2020-06-02 ;Kundbet Kubix AB (584822) ;9 375,00; ;325 736,00
+I 134;2020-06-02 ;Kundbet Kubix AB (584741) ; ;9 375,00;316 361,00
+I 150;2020-06-02 ;Kundbet Dan Elving Eckeskog (584828) ;1 848,00; ;318 209,00
+I 151;2020-06-02 ;Kundbet Dan Elving Eckeskog (584748) ; ;1 848,00;316 361,00
+F 93;2020-06-03 ;Kundfaktura Connie Bengtsson (584755) ;3 362,00; ;319 723,00
+F 95;2020-06-03 ;Kundfaktura Kent Tyrén (584753) ;11 602,00; ;331 325,00
+F 98;2020-06-03 ;Kundfaktura Hasse Johansson (584754) ;9 500,00; ;340 825,00
+I 77;2020-06-03 ;Kundbet Ullrika Daleroth (584744) ; ;1 533,00;339 292,00
+I 78;2020-06-03 ;Kundbet Kim Max Flisbäck (584729) ; ;3 452,00;335 840,00
+I 84;2020-06-03 ;Kundbet Hasse Johansson (584754) ; ;800;335 040,00
+I 85;2020-06-03 ;Kundbet Hasse Johansson (584754) ; ;1 210,46;333 829,54
+I 90;2020-06-03 ;Kundbet Jan Högström (584723) ; ;3 120,00;330 709,54
+I 76;2020-06-22 ;Kundbet Jan Högström (584737) ; ;3 120,00;327 589,54
+I 75;2020-06-23 ;Kundbet Kent Tyrén (584753) ; ;11 602,00;315 987,54
+F 99;2020-06-30 ;Avtalsfaktura Karl Tomas Persson (584777) ;4 000,00; ;319 987,54
+F 100;2020-06-30 ;Avtalsfaktura AB Benoso (584775) ;10 000,00; ;329 987,54
+F 109;2020-06-30 ;Kundfaktura Kent Tyrén (584772) ;11 380,00; ;341 367,54
+F 110;2020-06-30 ;Kundfaktura Britt-Marie Enberg (584760) ;4 691,00; ;346 058,54
+F 111;2020-06-30 ;Kundfaktura Björn Larsen (584769) ;6 300,00; ;352 358,54
+F 112;2020-06-30 ;Avtalsfaktura Sami Metsokumpu (584774) ;1 400,00; ;353 758,54
+F 113;2020-06-30 ;Kundfaktura Connie Bengtsson (584762) ;8 722,00; ;362 480,54
+F 114;2020-06-30 ;Kundfaktura Kim Max Flisbäck (584765) ;3 452,00; ;365 932,54
+F 115;2020-06-30 ;Kundfaktura Dan Elving Eckeskog (584763) ;2 949,00; ;368 881,54
+F 116;2020-06-30 ;Kundfaktura Handelsbolaget Oakhearts (584766) ;5 750,00; ;374 631,54
+F 117;2020-06-30 ;Kundfaktura AlmTek AB (584768) ;23 943,00; ;398 574,54
+F 118;2020-06-30 ;Avtalsfaktura Billinge Entreprenad (584776) ;14 438,00; ;413 012,54
+F 119;2020-06-30 ;Avtalsfaktura Jens Diget (584778) ;1 400,00; ;414 412,54
+F 120;2020-06-30 ;Kundfaktura Hans Fritz (584764) ;1 548,00; ;415 960,54
+F 121;2020-06-30 ;Kundfaktura Ullrika Daleroth (584767) ;1 533,00; ;417 493,54
+F 122;2020-06-30 ;Kundfaktura Hasse Johansson (584773) ;9 500,00; ;426 993,54
+F 127;2020-06-30 ;Kundfaktura Rosita Andersson (584761) ;3 841,00; ;430 834,54
+F 128;2020-06-30 ;Kundfaktura Jens Friberg (584770) ;6 000,00; ;436 834,54
+F 129;2020-06-30 ;Kundfaktura Peter Norbert Tarcsi (584771) ;6 323,00; ;443 157,54
+F 130;2020-06-30 ;Avtalsfaktura Karl Tomas Persson (584797) ; ;4 000,00;439 157,54
+F 173;2020-06-30 ;Kreditfaktura Jens Friberg (584827) ; ;6 000,00;433 157,54
+I 68;2020-06-30 ;Kundbet Handelsbolaget Oakhearts (584742) ; ;440;432 717,54
+I 69;2020-06-30 ;Kundbet Hans Fritz (584749) ; ;1 551,00;431 166,54
+I 70;2020-06-30 ;Kundbet Britt-Marie Enberg (584736) ; ;4 691,00;426 475,54
+I 71;2020-06-30 ;Kundbet Margrethe Kehler (584730) ; ;14 063,00;412 412,54
+I 72;2020-06-30 ;Kundbet AlmTek AB (584739) ; ;23 943,00;388 469,54
+I 73;2020-06-30 ;Kundbet Connie Bengtsson (584755) ; ;3 362,00;385 107,54
+I 74;2020-06-30 ;Kundbet Björn Håkan Sigvard Jerslind (584752) ; ;1 672,00;383 435,54
+I 137;2020-06-30 ;Kundbet Margrethe Kehler (584824) ;14 063,00; ;397 498,54
+I 138;2020-06-30 ;Kundbet Margrethe Kehler (584751) ; ;14 063,00;383 435,54
+I 86;2020-07-01 ;Kundbet Ullrika Daleroth (584671) ; ;1 533,00;381 902,54
+I 87;2020-07-01 ;Kundbet Karl Tomas Persson (584777) ; ;4 000,00;377 902,54
+I 88;2020-07-01 ;Kundbet Hasse Johansson (584754) ; ;6 500,00;371 402,54
+I 89;2020-07-01 ;Kundbet AB Benoso (584775) ; ;10 000,00;361 402,54
+I 91;2020-07-02 ;Kundbet Björn Larsen (584747) ; ;6 300,00;355 102,54
+I 92;2020-07-02 ;Kundbet Kim Max Flisbäck (584750) ; ;3 452,00;351 650,54
+I 93;2020-07-03 ;Kundbet Remdoc Aktiebolag (584743) ; ;17 018,00;334 632,54
+I 112;2020-07-06 ;Kundbet Dan Elving Eckeskog (584748) ; ;2 949,00;331 683,54
+I 94;2020-07-20 ;Kundbet Bera Holding i Lund AB (584746) ; ;4 954,00;326 729,54
+I 95;2020-07-21 ;Kundbet Kent Tyrén (584772) ; ;11 380,00;315 349,54
+I 96;2020-07-21 ;Kundbet Bygginnovatörerna i Lund Aktiebolag (584745) ; ;8 123,00;307 226,54
+I 97;2020-07-24 ;Kundbet Britt-Marie Enberg (584760) ; ;4 691,00;302 535,54
+I 98;2020-07-28 ;Kundbet Sami Metsokumpu (584774) ; ;1 400,00;301 135,54
+I 99;2020-07-28 ;Kundbet Björn Larsen (584769) ; ;6 300,00;294 835,54
+I 100;2020-07-29 ;Kundbet Connie Bengtsson (584762) ; ;8 722,00;286 113,54
+I 101;2020-07-29 ;Kundbet Kim Max Flisbäck (584765) ; ;3 452,00;282 661,54
+I 113;2020-07-29 ;Kundbet Karl Tomas Persson (584797) ;4 000,00; ;286 661,54
+I 102;2020-07-30 ;Kundbet AlmTek AB (584768) ; ;23 943,00;262 718,54
+I 103;2020-07-30 ;Kundbet Billinge Entreprenad (584776) ; ;14 438,00;248 280,54
+I 104;2020-07-30 ;Kundbet Handelsbolaget Oakhearts (584766) ; ;5 750,00;242 530,54
+I 105;2020-07-30 ;Kundbet Dan Elving Eckeskog (584763) ; ;2 949,00;239 581,54
+I 143;2020-07-30 ;Kundbet Jens Friberg (584827) ;6 000,00; ;245 581,54
+I 144;2020-07-30 ;Kundbet Jens Friberg (584770) ; ;6 000,00;239 581,54
+I 106;2020-07-31 ;Kundbet Jens Diget (584778) ; ;1 400,00;238 181,54
+F 123;2020-08-02 ;Avtalsfaktura AB Benoso (584780) ;2 500,00; ;240 681,54
+F 124;2020-08-02 ;Avtalsfaktura Sami Metsokumpu (584779) ;700; ;241 381,54
+F 131;2020-08-02 ;Avtalsfaktura Kent Tyrén (584787) ;11 380,00; ;252 761,54
+F 132;2020-08-02 ;Avtalsfaktura Britt-Marie Enberg (584783) ;4 691,00; ;257 452,54
+F 133;2020-08-02 ;Avtalsfaktura Björn Larsen (584795) ;6 300,00; ;263 752,54
+F 134;2020-08-02 ;Avtalsfaktura Connie Bengtsson (584788) ;6 045,00; ;269 797,54
+F 135;2020-08-02 ;Avtalsfaktura Dan Elving Eckeskog (584789) ;2 949,00; ;272 746,54
+F 136;2020-08-02 ;Avtalsfaktura Jens Diget (584782) ;700; ;273 446,54
+F 137;2020-08-02 ;Avtalsfaktura Kim Max Flisbäck (584791) ;3 452,00; ;276 898,54
+F 138;2020-08-02 ;Avtalsfaktura Handelsbolaget Oakhearts (584793) ;5 921,00; ;282 819,54
+F 139;2020-08-02 ;Avtalsfaktura AlmTek AB (584794) ;23 943,00; ;306 762,54
+F 140;2020-08-02 ;Avtalsfaktura Hans Fritz (584790) ;1 548,00; ;308 310,54
+F 141;2020-08-02 ;Avtalsfaktura Ullrika Daleroth (584792) ;1 533,00; ;309 843,54
+F 164;2020-08-02 ;Avtalsfaktura Peter Norbert Tarcsi (584796) ;6 323,00; ;316 166,54
+F 165;2020-08-02 ;Avtalsfaktura Rosita Andersson (584784) ;3 701,00; ;319 867,54
+F 166;2020-08-02 ;Avtalsfaktura Hasse Johansson (584786) ;8 750,00; ;328 617,54
+I 107;2020-08-03 ;Kundbet Hasse Johansson (584773) ; ;6 500,00;322 117,54
+I 108;2020-08-03 ;Kundbet AB Benoso (584780) ; ;2 500,00;319 617,54
+I 109;2020-08-03 ;Kundbet Hans Fritz (584764) ; ;1 548,00;318 069,54
+I 110;2020-08-03 ;Kundbet Ullrika Daleroth (584767) ; ;1 533,00;316 536,54
+I 111;2020-08-07 ;Kundbet Sami Metsokumpu (584779) ; ;700;315 836,54
+I 114;2020-08-21 ;Kundbet Kent Tyrén (584787) ; ;11 380,00;304 456,54
+I 115;2020-08-24 ;Kundbet Britt-Marie Enberg (584783) ; ;4 691,00;299 765,54
+I 116;2020-08-28 ;Kundbet Björn Larsen (584795) ; ;6 300,00;293 465,54
+I 126;2020-08-28 ;Kundbet Hans Fritz (584790) ; ;1 548,00;291 917,54
+I 117;2020-08-31 ;Kundbet Handelsbolaget Oakhearts (584681) ; ;22 790,00;269 127,54
+I 118;2020-08-31 ;Kundbet Connie Bengtsson (584788) ; ;6 045,00;263 082,54
+I 119;2020-08-31 ;Kundbet Dan Elving Eckeskog (584789) ; ;2 949,00;260 133,54
+I 120;2020-09-01 ;Kundbet Hasse Johansson (584773) ; ;2 510,46;257 623,08
+I 121;2020-09-01 ;Kundbet Hasse Johansson (584754) ; ;989,54;256 633,54
+I 122;2020-09-01 ;Kundbet AlmTek AB (584794) ; ;23 943,00;232 690,54
+I 123;2020-09-01 ;Kundbet Handelsbolaget Oakhearts (584793) ; ;5 921,00;226 769,54
+I 124;2020-09-01 ;Kundbet Kim Max Flisbäck (584791) ; ;3 452,00;223 317,54
+I 125;2020-09-01 ;Kundbet Jens Diget (584782) ; ;700;222 617,54
+F 142;2020-09-03 ;Avtalsfaktura Remdoc Aktiebolag (584818) ;17 018,00; ;239 635,54
+F 143;2020-09-03 ;Avtalsfaktura AB Benoso (584799) ;2 500,00; ;242 135,54
+F 144;2020-09-03 ;Avtalsfaktura Sami Metsokumpu (584798) ;700; ;242 835,54
+F 145;2020-09-03 ;Avtalsfaktura Billinge Entreprenad (584800) ;12 375,00; ;255 210,54
+F 146;2020-09-03 ;Avtalsfaktura Jens Diget (584801) ;700; ;255 910,54
+F 147;2020-09-03 ;Avtalsfaktura Britt-Marie Enberg (584802) ;4 691,00; ;260 601,54
+F 148;2020-09-03 ;Avtalsfaktura Rosita Andersson (584803) ;3 701,00; ;264 302,54
+F 149;2020-09-03 ;Avtalsfaktura Hasse Johansson (584804) ;8 750,00; ;273 052,54
+F 150;2020-09-03 ;Avtalsfaktura Kent Tyrén (584805) ;11 380,00; ;284 432,54
+F 151;2020-09-03 ;Avtalsfaktura Connie Bengtsson (584806) ;6 045,00; ;290 477,54
+F 152;2020-09-03 ;Avtalsfaktura Dan Elving Eckeskog (584807) ;2 949,00; ;293 426,54
+F 153;2020-09-03 ;Avtalsfaktura Hans Fritz (584808) ;1 548,00; ;294 974,54
+F 154;2020-09-03 ;Avtalsfaktura Kim Max Flisbäck (584809) ;3 452,00; ;298 426,54
+F 155;2020-09-03 ;Avtalsfaktura Ullrika Daleroth (584810) ;1 533,00; ;299 959,54
+F 156;2020-09-03 ;Avtalsfaktura Handelsbolaget Oakhearts (584811) ;5 750,00; ;305 709,54
+F 157;2020-09-03 ;Avtalsfaktura AlmTek AB (584812) ;23 943,00; ;329 652,54
+F 158;2020-09-03 ;Avtalsfaktura Björn Larsen (584813) ;6 300,00; ;335 952,54
+F 159;2020-09-03 ;Avtalsfaktura Peter Norbert Tarcsi (584814) ;6 323,00; ;342 275,54
+F 160;2020-09-03 ;Avtalsfaktura Bygginnovatörerna i Lund Aktiebolag (584815) ;8 123,00; ;350 398,54
+F 161;2020-09-03 ;Avtalsfaktura Bera Holding i Lund AB (584816) ;4 954,00; ;355 352,54
+F 162;2020-09-03 ;Avtalsfaktura Margrethe Kehler (584817) ;14 063,00; ;369 415,54
+F 163;2020-09-03 ;Avtalsfaktura Björn Håkan Sigvard Jerslind (584819) ;1 672,00; ;371 087,54
+I 127;2020-09-03 ;Kundbet Ullrika Daleroth (584792) ; ;1 533,00;369 554,54
+I 128;2020-09-04 ;Kundbet AB Benoso (584799) ; ;2 500,00;367 054,54
+I 129;2020-09-04 ;Kundbet Remdoc Aktiebolag (584818) ; ;17 018,00;350 036,54
+F 192;2020-09-20 ;Avtalsfaktura Certifierad Arborist Gothia Trädtjänst AB (584820) ;3 750,00; ;353 786,54
+I 130;2020-09-21 ;Kundbet Kent Tyrén (584805) ; ;11 380,00;342 406,54
+F 167;2020-09-22 ;Avtalsfaktura Connie Bengtsson (584821) ; ;460;341 946,54
+F 169;2020-09-22 ;Kundfaktura Ullrika Daleroth (584823) ;248; ;342 194,54
+I 131;2020-09-22 ;Kundbet Connie Bengtsson (584821) ;460; ;342 654,54
+I 132;2020-09-22 ;Kundbet Connie Bengtsson (584647) ; ;460;342 194,54
+I 135;2020-09-22 ;Kundbet Ullrika Daleroth (584823) ; ;248;341 946,54
+I 136;2020-09-22 ;Kundbet Ullrika Daleroth (584671) ;248; ;342 194,54
+I 145;2020-09-23 ;Kundbet Dan Elving Eckeskog (584748) ; ;1 039,00;341 155,54
+I 146;2020-09-23 ;Kundbet Dan Elving Eckeskog (584714) ; ;2 918,00;338 237,54
+I 147;2020-09-23 ;Kundbet Dan Elving Eckeskog (584693) ; ;2 910,00;335 327,54
+I 148;2020-09-23 ;Kundbet Dan Elving Eckeskog (584682) ; ;410;334 917,54
+I 149;2020-09-23 ;Kundbet Dan Elving Eckeskog (584660) ; ;17 507,00;317 410,54
+I 152;2020-09-25 ;Kundbet Björn Håkan Sigvard Jerslind (584819) ; ;1 672,00;315 738,54
+I 153;2020-09-28 ;Kundbet Britt-Marie Enberg (584802) ; ;4 691,00;311 047,54
+I 154;2020-09-29 ;Kundbet Björn Larsen (584813) ; ;6 300,00;304 747,54
+I 155;2020-09-29 ;Kundbet Hans Fritz (584808) ; ;1 548,00;303 199,54
+I 156;2020-09-30 ;Kundbet Connie Bengtsson (584806) ; ;6 045,00;297 154,54
+I 157;2020-10-01 ;Kundbet Hasse Johansson (584804) ; ;7 000,00;290 154,54
+I 158;2020-10-01 ;Kundbet Dan Elving Eckeskog (584807) ; ;2 949,00;287 205,54
+I 159;2020-10-01 ;Kundbet Jens Diget (584801) ; ;700;286 505,54
+F 175;2020-10-02 ;Avtalsfaktura Britt-Marie Enberg (584829) ;4 691,00; ;291 196,54
+F 176;2020-10-02 ;Avtalsfaktura Rosita Andersson (584830) ;3 841,00; ;295 037,54
+F 177;2020-10-02 ;Avtalsfaktura Certifierad Arborist Gothia Trädtjänst AB (584831) ;3 750,00; ;298 787,54
+F 178;2020-10-02 ;Avtalsfaktura Hasse Johansson (584832) ;8 750,00; ;307 537,54
+F 179;2020-10-02 ;Avtalsfaktura Kent Tyrén (584833) ;11 380,00; ;318 917,54
+F 180;2020-10-02 ;Avtalsfaktura AB Benoso (584834) ;2 500,00; ;321 417,54
+F 181;2020-10-02 ;Avtalsfaktura Connie Bengtsson (584835) ;6 045,00; ;327 462,54
+F 182;2020-10-02 ;Avtalsfaktura Dan Elving Eckeskog (584836) ;3 050,00; ;330 512,54
+F 183;2020-10-02 ;Avtalsfaktura Hans Fritz (584837) ;1 604,00; ;332 116,54
+F 184;2020-10-02 ;Avtalsfaktura Kim Max Flisbäck (584838) ;3 581,00; ;335 697,54
+F 185;2020-10-02 ;Avtalsfaktura Ullrika Daleroth (584839) ;1 583,00; ;337 280,54
+F 186;2020-10-02 ;Avtalsfaktura Handelsbolaget Oakhearts (584840) ;5 980,00; ;343 260,54
+F 187;2020-10-02 ;Avtalsfaktura AlmTek AB (584841) ;23 943,00; ;367 203,54
+F 188;2020-10-02 ;Avtalsfaktura Björn Larsen (584842) ;6 300,00; ;373 503,54
+F 189;2020-10-02 ;Avtalsfaktura Peter Norbert Tarcsi (584843) ;6 531,00; ;380 034,54
+F 190;2020-10-02 ;Avtalsfaktura Sami Metsokumpu (584844) ;700; ;380 734,54
+F 191;2020-10-02 ;Avtalsfaktura Jens Diget (584845) ;700; ;381 434,54
+I 160;2020-10-02 ;Kundbet Kim Max Flisbäck (584809) ; ;3 452,00;377 982,54
+I 161;2020-10-02 ;Kundbet Handelsbolaget Oakhearts (584811) ; ;5 750,00;372 232,54
+I 162;2020-10-02 ;Kundbet Billinge Entreprenad (584800) ; ;12 375,00;359 857,54
+I 163;2020-10-02 ;Kundbet Margrethe Kehler (584817) ; ;14 063,00;345 794,54
+I 164;2020-10-05 ;Kundbet Certifierad Arborist Gothia Trädtjänst AB (584820) ; ;3 750,00;342 044,54
+I 165;2020-10-05 ;Kundbet Ullrika Daleroth (584810) ; ;1 533,00;340 511,54
+I 166;2020-10-05 ;Kundbet AlmTek AB (584812) ; ;23 943,00;316 568,54
+I 167;2020-10-05 ;Kundbet AB Benoso (584834) ; ;2 500,00;314 068,54
+I 168;2020-10-06 ;Kundbet Bygginnovatörerna i Lund Aktiebolag (584815) ; ;8 123,00;305 945,54
+I 169;2020-10-06 ;Kundbet Bera Holding i Lund AB (584816) ; ;4 954,00;300 991,54
+F 194;2020-10-13 ;Avtalsfaktura Adnan Masovic  (584846) ;2 500,00; ;303 491,54
+F 193;2020-10-14 ;Avtalsfaktura Sami Metsokumpu (584848) ;700; ;304 191,54
+F 195;2020-10-14 ;Kundfaktura Sylvester Pagmert (584847) ;1 400,00; ;305 591,54
+I 170;2020-10-14 ;Kundbet Sami Metsokumpu (584848) ; ;700;304 891,54
+I 171;2020-10-14 ;Kundbet Sami Metsokumpu (584844) ; ;700;304 191,54
+I 172;2020-10-14 ;Kundbet Sami Metsokumpu (584798) ; ;700;303 491,54
+I 173;2020-10-16 ;Kundbet Peter Norbert Tarcsi (584796) ; ;6 323,00;297 168,54
+I 174;2020-10-16 ;Kundbet Peter Norbert Tarcsi (584814) ; ;6 323,00;290 845,54
+F 196;2020-10-19 ;Kundfaktura Olof Blomé (584849) ;8 400,00; ;299 245,54
+I 175;2020-10-26 ;Kundbet Britt-Marie Enberg (584829) ; ;4 691,00;294 554,54
+I 176;2020-10-26 ;Kundbet Kent Tyrén (584833) ; ;11 380,00;283 174,54
+I 177;2020-10-26 ;Kundbet Björn Larsen (584842) ; ;6 300,00;276 874,54
+F 197;2020-10-27 ;Avtalsfaktura Britt-Marie Enberg (584850) ;4 691,00; ;281 565,54
+F 198;2020-10-27 ;Avtalsfaktura Rosita Andersson (584851) ;3 841,00; ;285 406,54
+F 199;2020-10-27 ;Avtalsfaktura Certifierad Arborist Gothia Trädtjänst AB (584852) ;3 750,00; ;289 156,54
+F 200;2020-10-27 ;Avtalsfaktura Jens Diget (584853) ;700; ;289 856,54
+F 201;2020-10-27 ;Avtalsfaktura AB Benoso (584854) ;2 500,00; ;292 356,54
+F 202;2020-10-27 ;Avtalsfaktura Connie Bengtsson (584855) ;6 045,00; ;298 401,54
+F 203;2020-10-27 ;Avtalsfaktura Dan Elving Eckeskog (584856) ;3 050,00; ;301 451,54
+F 204;2020-10-27 ;Avtalsfaktura Hans Fritz (584857) ;1 604,00; ;303 055,54
+F 205;2020-10-27 ;Avtalsfaktura Kim Max Flisbäck (584858) ;3 581,00; ;306 636,54
+F 206;2020-10-27 ;Avtalsfaktura Ullrika Daleroth (584859) ;1 583,00; ;308 219,54
+F 207;2020-10-27 ;Avtalsfaktura Handelsbolaget Oakhearts (584860) ;5 980,00; ;314 199,54
+F 208;2020-10-27 ;Avtalsfaktura Sylvester Pagmert (584861) ;700; ;314 899,54
+F 209;2020-10-27 ;Avtalsfaktura Maja Satz (584862) ;4 625,00; ;319 524,54
+F 210;2020-10-27 ;Avtalsfaktura AlmTek AB (584863) ;23 943,00; ;343 467,54
+F 211;2020-10-27 ;Avtalsfaktura Björn Larsen (584864) ;6 900,00; ;350 367,54
+F 212;2020-10-27 ;Avtalsfaktura Peter Norbert Tarcsi (584865) ;6 531,00; ;356 898,54
+F 213;2020-10-27 ;Avtalsfaktura Adnan Masovic  (584866) ;2 100,00; ;358 998,54
+F 214;2020-10-27 ;Avtalsfaktura Hasse Johansson (584867) ;8 750,00; ;367 748,54
+F 215;2020-10-27 ;Avtalsfaktura Kent Tyrén (584868) ;11 380,00; ;379 128,54
+I 178;2020-10-27 ;Kundbet Certifierad Arborist Gothia Trädtjänst AB (584831) ; ;3 750,00;375 378,54
+I 179;2020-10-27 ;Kundbet Dan Elving Eckeskog (584836) ; ;3 050,00;372 328,54
+I 180;2020-10-28 ;Kundbet Sylvester Pagmert (584847) ; ;1 400,00;370 928,54
+I 181;2020-10-28 ;Kundbet AB Benoso (584854) ; ;2 500,00;368 428,54
+I 182;2020-10-29 ;Kundbet Connie Bengtsson (584835) ; ;6 045,00;362 383,54
+I 183;2020-10-30 ;Kundbet Handelsbolaget Oakhearts (584840) ; ;5 980,00;356 403,54
+F 219;2020-10-31 ;Avtalsfaktura Anders Holmgren (584869) ;400; ;356 803,54
+F 220;2020-10-31 ;Avtalsfaktura Anders Holmgren (584870) ;400; ;357 203,54
+I 184;2020-11-02 ;Kundbet Hasse Johansson (584832) ; ;8 750,00;348 453,54
+I 185;2020-11-02 ;Kundbet Hans Fritz (584837) ; ;1 604,00;346 849,54
+I 186;2020-11-02 ;Kundbet AlmTek AB (584841) ; ;23 943,00;322 906,54
+I 187;2020-11-02 ;Kundbet Jens Diget (584845) ; ;700;322 206,54
+I 188;2020-11-03 ;Kundbet Kim Max Flisbäck (584858) ; ;3 581,00;318 625,54
+I 189;2020-11-09 ;Kundbet Adnan Masovic  (584846) ; ;2 500,00;316 125,54
+I 190;2020-11-17 ;Kundbet Ullrika Daleroth (584859) ; ;1 583,00;314 542,54
+F 248;2020-11-20 ;Kundfaktura Svenska Förpacknings- och Tidningsinsamlingen AB (584871) ;7 292,00; ;321 834,54
+I 191;2020-11-23 ;Kundbet Kent Tyrén (584868) ; ;11 380,00;310 454,54
+I 192;2020-11-25 ;Kundbet Certifierad Arborist Gothia Trädtjänst AB (584852) ; ;3 750,00;306 704,54
+I 193;2020-11-26 ;Kundbet Handelsbolaget Oakhearts (584860) ; ;5 980,00;300 724,54
+I 194;2020-11-26 ;Kundbet Connie Bengtsson (584855) ; ;6 045,00;294 679,54
+I 195;2020-11-26 ;Kundbet Maja Satz (584862) ; ;4 625,00;290 054,54
+I 205;2020-11-27 ;Kundbet Anders Holmgren (584870) ; ;400;289 654,54
+I 206;2020-11-27 ;Kundbet Anders Holmgren (584869) ; ;400;289 254,54
+I 207;2020-11-27 ;Kundbet Peter Norbert Tarcsi (584539) ; ;3 193,00;286 061,54
+I 208;2020-11-27 ;Kundbet Peter Norbert Tarcsi (584865) ; ;6 531,00;279 530,54
+I 200;2020-11-30 ;Kundbet Björn Larsen (584864) ; ;6 900,00;272 630,54
+I 201;2020-11-30 ;Kundbet Sylvester Pagmert (584861) ; ;700;271 930,54
+I 202;2020-11-30 ;Kundbet Hans Fritz (584857) ; ;1 604,00;270 326,54
+I 203;2020-11-30 ;Kundbet Hasse Johansson (584867) ; ;8 750,00;261 576,54
+I 204;2020-11-30 ;Kundbet Dan Elving Eckeskog (584856) ; ;2 850,00;258 726,54
+F 249;2020-12-01 ;Kundfaktura Sami Metsokumpu (584926) ;7 000,00; ;265 726,54
+F 250;2020-12-01 ;Kundfaktura Sami Metsokumpu (584928) ;700; ;266 426,54
+I 197;2020-12-01 ;Kundbet Kim Max Flisbäck (584838) ; ;3 581,00;262 845,54
+I 198;2020-12-01 ;Kundbet Britt-Marie Enberg (584850) ; ;4 691,00;258 154,54
+I 199;2020-12-01 ;Kundbet Jens Diget (584853) ; ;700;257 454,54
+F 216;2020-12-02 ;Avtalsfaktura Britt-Marie Enberg (584872) ;4 703,00; ;262 157,54
+F 217;2020-12-02 ;Avtalsfaktura Rosita Andersson (584873) ;3 841,00; ;265 998,54
+F 218;2020-12-02 ;Avtalsfaktura Certifierad Arborist Gothia Trädtjänst AB (584874) ;3 750,00; ;269 748,54
+F 221;2020-12-02 ;Avtalsfaktura Hasse Johansson (584875) ;8 750,00; ;278 498,54
+F 222;2020-12-02 ;Avtalsfaktura Kent Tyrén (584876) ;11 380,00; ;289 878,54
+F 223;2020-12-02 ;Avtalsfaktura Sami Metsokumpu (584877) ;700; ;290 578,54
+F 224;2020-12-02 ;Avtalsfaktura Jens Diget (584878) ;700; ;291 278,54
+F 225;2020-12-02 ;Avtalsfaktura Olof Blomé (584879) ;700; ;291 978,54
+F 226;2020-12-02 ;Avtalsfaktura AB Benoso (584880) ;2 500,00; ;294 478,54
+F 227;2020-12-02 ;Avtalsfaktura Connie Bengtsson (584881) ;6 045,00; ;300 523,54
+F 228;2020-12-02 ;Avtalsfaktura Dan Elving Eckeskog (584882) ;3 050,00; ;303 573,54
+F 229;2020-12-02 ;Avtalsfaktura Hans Fritz (584883) ;1 604,00; ;305 177,54
+F 230;2020-12-02 ;Avtalsfaktura Kim Max Flisbäck (584884) ;3 581,00; ;308 758,54
+F 231;2020-12-02 ;Avtalsfaktura Ullrika Daleroth (584885) ;1 583,00; ;310 341,54
+F 232;2020-12-02 ;Avtalsfaktura Handelsbolaget Oakhearts (584886) ;5 980,00; ;316 321,54
+F 233;2020-12-02 ;Avtalsfaktura Sylvester Pagmert (584887) ;700; ;317 021,54
+F 234;2020-12-02 ;Avtalsfaktura Maja Satz (584888) ;4 625,00; ;321 646,54
+F 235;2020-12-02 ;Avtalsfaktura AlmTek AB (584889) ;24 364,00; ;346 010,54
+F 236;2020-12-02 ;Avtalsfaktura Björn Larsen (584890) ;6 300,00; ;352 310,54
+F 237;2020-12-02 ;Avtalsfaktura Peter Norbert Tarcsi (584891) ;6 531,00; ;358 841,54
+F 238;2020-12-02 ;Avtalsfaktura Billinge Entreprenad (584892) ;12 375,00; ;371 216,54
+F 239;2020-12-02 ;Avtalsfaktura Margrethe Kehler (584893) ;14 063,00; ;385 279,54
+F 240;2020-12-02 ;Avtalsfaktura Remdoc Aktiebolag (584894) ;17 018,00; ;402 297,54
+F 241;2020-12-02 ;Avtalsfaktura Björn Håkan Sigvard Jerslind (584895) ;1 672,00; ;403 969,54
+I 196;2020-12-02 ;Kundbet AlmTek AB (584863) ; ;23 943,00;380 026,54
+F 242;2020-12-03 ;Avtalsfaktura Anders Holmgren (584896) ;400; ;380 426,54
+F 243;2020-12-03 ;Avtalsfaktura Stiftelsen Gamlegård i Billinge (584897) ;1 000,00; ;381 426,54
+F 244;2020-12-03 ;Avtalsfaktura Möllerikeföreningen (584898) ;1 000,00; ;382 426,54
+F 245;2020-12-03 ;Avtalsfaktura Adnan Masovic  (584899) ;6 800,00; ;389 226,54
+F 246;2020-12-03 ;Avtalsfaktura Maja Satz (584901) ; ;4 625,00;384 601,54
+F 247;2020-12-03 ;Kundfaktura Maja Satz (584902) ;1 938,00; ;386 539,54
+I 209;2020-12-03 ;Kundbet Maja Satz (584901) ;4 625,00; ;391 164,54
+I 210;2020-12-03 ;Kundbet Maja Satz (584888) ; ;4 625,00;386 539,54
+I 211;2020-12-03 ;Kundbet AB Benoso (584880) ; ;2 500,00;384 039,54
+I 212;2020-12-04 ;Kundbet Olof Blomé (584849) ; ;8 400,00;375 639,54
+I 213;2020-12-04 ;Kundbet Ullrika Daleroth (584839) ; ;1 583,00;374 056,54
+I 214;2020-12-04 ;Kundbet Remdoc Aktiebolag (584894) ; ;17 018,00;357 038,54
+I 215;2020-12-07 ;Kundbet Svenska Förpacknings- och Tidningsinsamlingen AB (584871) ; ;7 292,00;349 746,54
+I 216;2020-12-14 ;Kundbet Adnan Masovic  (584866) ; ;2 100,00;347 646,54
+I 217;2020-12-21 ;Kundbet Kent Tyrén (584876) ; ;11 380,00;336 266,54
+I 218;2020-12-23 ;Kundbet Björn Larsen (584890) ; ;6 300,00;329 966,54
+I 219;2020-12-23 ;Kundbet Björn Håkan Sigvard Jerslind (584895) ; ;1 672,00;328 294,54
+I 220;2020-12-28 ;Kundbet Britt-Marie Enberg (584872) ; ;4 703,00;323 591,54
+I 221;2020-12-28 ;Kundbet Kim Max Flisbäck (584884) ; ;3 581,00;320 010,54
+I 222;2020-12-28 ;Kundbet Möllerikeföreningen (584898) ; ;1 000,00;319 010,54
+I 223;2020-12-28 ;Kundbet Stiftelsen Gamlegård i Billinge (584897) ; ;1 000,00;318 010,54
+I 224;2020-12-28 ;Kundbet Connie Bengtsson (584881) ; ;6 045,00;311 965,54
+I 225;2020-12-28 ;Kundbet Sylvester Pagmert (584887) ; ;700;311 265,54
+I 230;2020-12-28 ;Kundbet Sami Metsokumpu (584928) ; ;700;310 565,54
+I 231;2020-12-28 ;Kundbet Sami Metsokumpu (584926) ; ;7 000,00;303 565,54
+I 232;2020-12-28 ;Kundbet Sami Metsokumpu (584877) ; ;700;302 865,54
+I 226;2020-12-29 ;Kundbet Hasse Johansson (584875) ; ;8 750,00;294 115,54
+I 227;2020-12-30 ;Kundbet Handelsbolaget Oakhearts (584886) ; ;5 980,00;288 135,54
+I 228;2020-12-30 ;Kundbet Billinge Entreprenad (584892) ; ;12 375,00;275 760,54
+I 229;2020-12-30 ;Kundbet Margrethe Kehler (584893) ; ;14 063,00;261 697,54

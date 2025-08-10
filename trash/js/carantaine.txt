@@ -1,0 +1,232 @@
+
+
+/*
+    $.ajax({
+        dataType: "json",
+        type: "post",
+        url: "/html/aza_trade.php",
+        data: {
+            formData: formData
+        },
+        success: function (data) {
+            console.log("mattias");
+
+        },
+        error: function (data) {
+            console.log('Error:', data);
+        }
+    });
+
+*/
+
+    /*
+    $.post("/html/aza_trade.php", {formData: formData},
+        function (data) {
+            console.log("result:");
+            console.log(data);
+
+            if(getOne){
+                console.log("one res");
+                return "returntext";
+            }
+            else if(mode == "first"){
+                var date = new Date(data.last.indicators.timestamp);
+                stock = 5247;
+                history[stock] = data.last20;
+                chart($("#mainChart"),data.graph.labels,data.graph.datasets);
+                $("#simid").text("22")
+
+                $("#lastTime_"+stock).text(data.last.indicators.javatime);
+                $("#lastPrice_"+stock).text(data.last.indicators.close);
+                $("#lastRsi_"+stock).text(data.last.indicators.rsi);
+                $("#lastClose_"+stock).text(data.previousClosingPrice);
+
+                if(data.sessionid == "-"){
+                    $("#id").text("Anslutning till Avanza saknas");
+                }else{
+                    $("#id").text(data.sessionid);
+                }
+            }
+            else if(last20){
+                history[stock] = data.last20;
+                $("#lastTime_"+stock).text(data.last.indicators.javatime);
+                $("#lastPrice_"+stock).text(data.last.indicators.close);
+                $("#lastRsi_"+stock).text(data.last.indicators.rsi);
+                $("#lastClose_"+stock).text(data.previousClosingPrice);
+
+                if(data.sessionid == "-"){
+                    $("#id").text("Anslutning till Avanza saknas");
+                }else{
+                    $("#id").text(data.sessionid);
+                }
+            }else if(graphData == true){
+                history[stock] = data.last20;
+                stockData[stock] = data.history;
+                console.log(stockData[stock]);
+                chart($("#mainChart"),stockData[stock].labels,stockData[stock].datasets);
+                $("#orders").html("Graph loaded");
+            }
+
+        }, "json");*/
+
+
+
+/*
+function loadData(stock){
+    var formData = {
+        stock: stock,
+        action: "load",
+        testdata: $("#testdata").prop('checked') ? "1" : "0",
+    };
+    $.post("/html/aza_loadStock.php", {formData: formData},
+    function (data) {
+        history[stock] = data.last20;
+        $("#lastTime_"+stock).text(data.last.indicators.javatime);
+        $("#lastPrice_"+stock).text(data.last.indicators.close);
+        $("#lastRsi_"+stock).text(data.last.indicators.rsi);
+        $("#lastClose_"+stock).text(data.previousClosingPrice);
+
+        if(data.sessionid == "-"){
+            $("#id").text("Anslutning till Avanza saknas");
+        }else{
+            $("#id").text(data.sessionid);
+        }
+
+    }, "json");
+}
+
+function loadPre(stock){
+    pf = portfolio[stock];
+    pf['mode'] = $("#mode").val();
+
+    var formData = {
+        action: "preLoad",
+        portfolio: pf
+    };
+    $.post("/html/aza_simulator.php", {formData},
+        function (data) {
+            var date = new Date(data.last.indicators.timestamp);
+            stock = 5247;
+            history[stock] = data.last20;
+            chart($("#mainChart"),data.graph.labels,data.graph.datasets);
+            $("#simid").text("22")
+
+            $("#lastTime_"+stock).text(data.last.indicators.javatime);
+            $("#lastPrice_"+stock).text(data.last.indicators.close);
+            $("#lastRsi_"+stock).text(data.last.indicators.rsi);
+            $("#lastClose_"+stock).text(data.previousClosingPrice);
+
+            if(data.sessionid == "-"){
+                $("#id").text("Anslutning till Avanza saknas");
+            }else{
+                $("#id").text(data.sessionid);
+            }
+        },"json");
+}
+
+
+function loadGraph(stock){
+    pf = portfolio[stock];
+    pf['mode'] = $("#mode").val();
+
+    var formData = {
+        stock: stock,
+        action: "graf",
+        testdata: $("#testdata").prop('checked') ? "1" : "0",
+        savedata: $("#savedata").prop('checked') ? "1" : "0",
+        portfolio: portfolio[stock]
+    };
+    $.post("/html/aza_loadGraph.php", {formData: formData},
+        function (data) {
+            console.log(data.orders);
+            chart($("#mainChart"),data.labels,data.datasets);
+
+            $("#orders").html("");
+            sum = 0;
+            $.each(data.orders, function( index, value ) {
+
+                if(value.action == "buy"){
+                    sum -= (value.count * value.price) + value.commission;
+                }else{
+                    sum += (value.count * value.price) - value.commission ;
+                }
+
+                var string = "";
+                string += value.time +' ';
+                string += value.action + ' ';
+                string += value.count + ' ';
+                string += value.price + ' ';
+                string += value.commission + ' ';
+                string += "<b>" +sum + '</b>';
+                string += "<br>";
+                $("#orders").prepend(string);
+
+            });
+
+            $("#orders").append("</table>");
+
+        }, "json");
+}
+*/
+    $(".simulate").click(function() {
+        var stock = $(this).attr('data');
+        var last;
+       $.each(history[stock], function( index, value ) {
+            last =value;
+        });
+
+        var rr =  Math.random() * (-0.1 - 0.1) + 0.1;
+        var price = parseFloat(last.indicators.price);
+        json = [
+            {
+                "data": {
+                    "orderbookId": "5247",
+                    "buyer": null,
+                    "buyerName": null,
+                    "seller": null,
+                    "sellerName": null,
+                    "dealTime": new Date().getTime(),
+                    "price": price + rr,
+                    "volume": 3,
+                    "matchedOnMarket": true,
+                    "cancelled": false
+                },
+                "channel": "/trades/5247"
+            }
+        ];
+        var json = json[0];
+        var formData = {
+            data: json.data,
+            stock: stock,
+            state: states[stock],
+            history: history[stock],
+            action: "trade"
+        };
+        $.post("/html/aza_trade.php", {formData},
+        function (data) {
+                $("#price_" + stock).text(data.indicators.price);
+                $("#rsi_" + stock).text(data.indicators.rsi);
+                $("#time_" + stock).text(data.indicators.prettytime);
+
+                var row = document.getElementById("tr_"+stock);
+                var header = document.getElementById("tr_header");
+                $(".temp").remove();
+                $(".temp_"+stock).remove();
+                $.each(data.indicators, function( index, value ) {
+                    //$("#"+index+"_"+stock).html(value);
+
+                    var y = header.insertCell(-1);
+                    y.className="temp";
+                    y.innerHTML=index;
+
+                    var x = row.insertCell(-1);
+                    x.className="temp_" + stock;
+                    x.innerHTML=value;
+                });
+
+
+                if(data.order.update == "yes"){
+                    loadTrades();
+                }
+            }, "json");
+    });

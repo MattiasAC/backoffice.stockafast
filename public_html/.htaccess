@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /
+# Externally redirect to add missing trailing slash if URL path does not contain a period or end with a slash
+RewriteCond $1 ^[^\.]+[^/]$
+rewriterule (.*) http://%{HTTP_HOST}/$1/ [R=301,L]
+# Internally rewrite SEO-friendly URLs to script
+rewriterule ^([^/]+)/([^/]+)/([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ index.php?page=$1&b=$2&c=$3&d=$4&e=$5&f=$6 [L]
+rewriterule ^([^/]+)/([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ index.php?page=$1&b=$2&c=$3&d=$4&e=$5 [L]
+rewriterule ^([^/]+)/([^/]+)/([^/]+)/([^/]+)/$ index.php?page=$1&b=$2&c=$3&d=$4 [L]
+rewriterule ^([^/]+)/([^/]+)/([^/]+)/$ index.php?page=$1&b=$2&c=$3 [L]
+rewriterule ^([^/]+)/([^/]+)/$ index.php?page=$1&b=$2 [L]
+rewriterule ^([^/]+)/$ index.php?page=$1 [L]

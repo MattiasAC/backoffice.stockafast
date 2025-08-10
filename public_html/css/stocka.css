@@ -1,0 +1,72 @@
+/* menu*/
+.text-bg-menu {
+    background-color: #88a0c0 !important; color: white !important; }
+.nav-link.active
+{
+    background-color: #aed2f3 !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.collapse.show {
+    display: block;
+}
+
+.nav-item > .nav-link[data-bs-toggle="collapse"]::after {
+    content: " ▼";
+    font-size: 0.8em;
+}
+
+.collapse .nav-link.active {
+    background-color: #0056b3;
+}
+
+/*input[type="checkbox"] {*/
+/*    vertical-align: middle;*/
+/*    width: 30px;*/
+/*    height: 30px;*/
+/*    background-color: #f0f4f8;*/
+/*    border: 2px solid #4757d1;*/
+/*    border-radius: 4px;*/
+/*    cursor: pointer;*/
+/*    position: relative;*/
+/*}*/
+
+input[type="checkbox"]:checked {
+    background-color: #4757d1;
+    border-color: #4757d1;
+}
+
+td{
+    white-space: nowrap;overflow: hidden;
+}
+
+
+.text-bg-header { background-color: #88a0c0 !important; color: white !important; }
+.text-bg-form { background-color: #88a0c0 !important; color: white !important; }
+.text-bg-primary, .bg-primary { background-color: #4757d1 !important; color: white !important; }
+.text-bg-secondary, .bg-secondary { background-color: #6b7dfd !important; color: white !important; }
+
+.text-bg-info, .bg-info { background-color: #a5a8f3 !important; color: white !important; }
+.text-bg-success, .bg-success { background-color: #58c5bb !important; color: white !important; }
+.text-bg-warning, .bg-warning { background-color: #f2c94c !important; color: black !important; }
+.text-bg-error, .bg-error { background-color: #eb5757 !important; color: white !important; }
+
+
+.btn { background-color: #88a0c0 !important; color: white !important; border:2px solid #FFF;}
+.btn-primary { background-color: #364a8c !important; color: white !important; }
+.btn-secondary { background-color: #3e68d1 !important; color: white !important; }
+.btn-info { background-color: #7c85e7 !important; color: white !important; }
+.btn-success { background-color: #3cb0b5 !important; color: white !important; }
+.btn-warning { background-color: #f2994a !important; color: black !important; }
+.btn-error { background-color: #c0392b !important; color: white !important; }
+
+
+
+
+
+@media (max-width: 991.98px) {
+    #mcontent {
+        margin-left: 0 !important;
+    }
+}

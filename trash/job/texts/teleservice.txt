@@ -1,0 +1,20 @@
+Hej
+Mitt namn är Mattias Altahr-Cederberg, jag är utbildad högskoleingenjör inom datateknik och har lång erfarenhet av programmering och systemutveckling. Främst inom PHP, MySQL, Javascript men har varit i kontakt med de flesta vanligt förekommande tekniker.
+
+Jag är hälftenägare och CTO på ett företag i Köpenhamn sedan 2010, Serio Media Aps där jag har utvecklat ett system som analyserar, tvättar och distribuerar telemarketing-leads. Jag var ensam utvecklare de första åren och har byggt systemet från grunden i PHP. Vi har arbetat med stora kunder som Telia, Almbrandt, Blue Energy, jfm, CA A-kassa m.fl. Jag slutade att arbeta aktivt i företaget 2022 på egen begäran men är fortfarande delägare.
+
+Sedan jag slutade i Danmark så har jag lagt min tid på en gammal industrifastighet med ca 50 hyresgäster som jag och en kompis köpte 2019. Jag ville komma bort från IT-branschen (och danskarna) och arbeta mer fysiskt. Men med facit i hand så har jag mest suttit och programmerat system för att automatisera verksamheten i fastigheten. Jag har insett att programmering är det roligaste som finns.
+
+Nu har jag tid över och känner mig hungrig efter nya utmaningar. På ett personligt plan så saknar jag även att vara en del av en gemenskap i yrkeslivet.
+
+BOLD Mina fördelar
+Snabb, effektiv, intelligent och ansvarstagande programmerare, systemutvecklare, projektledare, systemarkitekt som löser uppgiften. Jag älskar utmaningar och lämnar ingen uppgift olöst. Jag är relativt social och har inga problem med att möta kunder, leda och sköta hela kedjan i projekt. Som egenföretagare är jag van att vara den sista länken i kedjan som får lösa allt som andra inte kan/vill hantera, jag är en problemlösare. Jag är ödmjuk som person (utom när jag skriver jobbansökningar). Jag älskar att lära mig nytt och är helt prestigelös.
+
+BOLD Mina nackdelar
+Jag håller mig uppdaterad kring nya tekniker men har lite svårt för den "nya" sortens programmerare som importerar massor av bibliotek och färdig kod från höger och vänster och som inte riktigt förstår hur det fungerar. Jag vill ha kontroll på koden som jag ansvarar för. Jag vill ha kod som är stabil och underhållsfri, buggfixning av okänd kod med massa overhead är inte kul. Jag är lite oldschool med andra ord, men absolut inte trött och långsam.
+
+Min profil motsvarar kanske inte exakt den ni söker, men jag tror att jag kan vara en stor tillgång för Teleservice så om ni är öppna för alternativa lösningar så kommer jag jättegärna och presenterar mig.
+
+Jag har fortfarande lite andra åtaganden i mina företag och hemmaboende barn mm så jag söker inte i första hand en heltidstjänst 8-17 på kontor. Mitt drömscenario är en resultatbaserad anställning med 1-2 dagar på plats per vecka och resten på distans, totalt ca 80% men jag är intresserad av allt och anpassar mig såklart efter era behov.
+
+Jag har inget jättehögt löneanspråk utan värdesätter flexibilitet och trivsel högre. Självklart så återkommer jag gärna med mer information om ni önskar.
