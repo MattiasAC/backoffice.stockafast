@@ -2,11 +2,12 @@
 $menus = array();
 $menus["tenants"] = ["Hyreslista", "/tenants/"];
 $menus["lokaler"] = ["Lokaler", "/lokaler/"];
-$menus["meters"] = ["Elmätare", "/meters/"];
-$menus["elfaktura"] = ["Elfakturor", "/el/"];
-$menus["spot"] = ["Spotpriser", "/spot/"];
+$menus["el"] = ["El"];
+$menus["el"]["sub"]["elfaktura"] = ["Fakturor", "/el/"];
+$menus["el"]["sub"]["spot"] = ["Spotpriser", "/spot/"];
+$menus["el"]["sub"]["meters"] = ["Mätare", "/meters/"];
 $menus["kontrakt"] = ["Kontrakt", "/kontrakt/"];
-$menus["kontrakat"] = ["Kontrakt D", "/kontrakt/defaults/"];
+
 
 
 function buildMenu($items, $parentId = null) {

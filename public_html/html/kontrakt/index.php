@@ -19,6 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <div class="container mt-4">
     <h2>Kontrakt</h2>
     <button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#addModal">Lägg till ny</button>
+    <a href="/kontrakt/defaults" class="btn btn-secondary mb-3" >Kontraktsmallar</a>
     <table class="table table-striped">
         <thead>
         <tr>
